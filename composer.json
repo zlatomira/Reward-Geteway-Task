@@ -1,0 +1,15 @@
+{
+    "name": "app/rewardgatawaytest",
+    "description": "Get and show employees on a page.",
+    "type": "project",
+    "authors": [
+        {
+            "name": "zpetkova.dev",
+            "email": "zpetkova.dev@gmail.com"
+        }
+    ],
+
+    "require": {
+        "twig/twig": "^2.0"
+    }
+}
